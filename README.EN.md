@@ -9,7 +9,7 @@
 ## Features
 
 - **Real-time Translation:** Automatically translates English text copied to the clipboard.
-- **API Choices:** Choose between Google and DeepL translation APIs.
+- **API Choices:** Choose between Google and DeepL translation APIs, DeepL Translation API needs to be self-configured.
 - **Live GUI Display:** View the original and translated text directly within the interface.
 - **Excel Export:** Export your translations to Excel with the push of a button.
 

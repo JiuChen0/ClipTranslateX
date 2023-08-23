@@ -9,7 +9,7 @@
 ## 功能
 
 - 实时监听剪贴板，自动翻译复制的英文文本。
-- 可以选择使用Google翻译API或DeepL翻译API。
+- 可以选择使用Google翻译API或DeepL翻译API，DeepL翻译API需自行配置。
 - 实时在GUI界面中显示原文和翻译。
 - 允许用户将所有翻译导出到Excel文件中。
 
